@@ -10,6 +10,7 @@ Une application de blog construite avec React qui permet d'ajouter, d'éditer, d
   - [Fonctionnalités](#fonctionnalités)
   - [Technologies](#technologies)
   - [Installation](#installation)
+    - [Utilisation](#utilisation)
 
 ## Aperçu
 
@@ -40,16 +41,16 @@ Cette application de blog offre une interface utilisateur intuitive pour gérer 
    ```bash
    git clone https://github.com/votre-utilisateur/Build-25-React-Projects-Project25-MERN-Blog-App.git
 Accédez au répertoire du projet :
-Copy
-cd votre-repo
+  ```bash
+  cd votre-repo
 Installez les dépendances :
-Copy
-npm install
-Utilisation
+  ```bash
+  npm install
+### Utilisation
 Pour démarrer l'application en mode développement, exécutez la commande suivante :
 
-Copy
-npm run dev
+  ```bash
+  npm run dev
 Ouvrez votre navigateur et allez à http://localhost:5187 pour voir l'application en action.
 
 Contributions
