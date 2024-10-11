@@ -30,6 +30,9 @@ Cette application de blog offre une interface utilisateur intuitive pour gérer 
 - [Vite](https://vitejs.dev/) (si utilisé)
 - [Context API](https://reactjs.org/docs/context.html) ou [Redux](https://redux.js.org/) pour la gestion de l'état (si applicable)
 - [Axios](https://axios-http.com/) pour les requêtes HTTP (si applicable)
+- [NodeJs](https://nodejs.org)
+- [MongoDB](https://mongodb.com)
+- [ExpressJs](https://expressjs.com)
 
 ## Installation
 
